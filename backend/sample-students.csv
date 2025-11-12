@@ -1,0 +1,6 @@
+name,email,student_code,phone,password
+John Doe,john.doe@example.com,STU001,1234567890,password123
+Jane Smith,jane.smith@example.com,STU002,0987654321,password123
+Bob Johnson,bob.johnson@example.com,STU003,5551234567,password123
+Alice Williams,alice.williams@example.com,STU004,5559876543,password123
+Charlie Brown,charlie.brown@example.com,STU005,,password123
